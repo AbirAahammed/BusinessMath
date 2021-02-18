@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "436152916186",
+    "firebase_url": "https://rhino-atm.firebaseio.com",
+    "project_id": "rhino-atm",
+    "storage_bucket": "rhino-atm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436152916186:android:d3eb63adb6c4325069ede3",
+        "android_client_info": {
+          "package_name": "com.example.businessmath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436152916186-e12gf785de8qrd4cq8entf36k20rme6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5bsjeuOeXmmlYVgH2nAPe7HLp_UNEd18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436152916186-e12gf785de8qrd4cq8entf36k20rme6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436152916186:android:654cc9df4f02a87269ede3",
+        "android_client_info": {
+          "package_name": "com.example.sampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436152916186-e12gf785de8qrd4cq8entf36k20rme6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5bsjeuOeXmmlYVgH2nAPe7HLp_UNEd18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436152916186-e12gf785de8qrd4cq8entf36k20rme6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
